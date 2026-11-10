@@ -46,6 +46,9 @@ even: R-Y
 odd: B-Y
 ## example of use
 python encoder.py woof.jpg meow.wav
+<br>
 ^encodes
+<br>
 python decoder.py meow.wav wruff.png
+<br>
 ^decodes
